@@ -324,3 +324,13 @@ docker run --gpus all \
   kishanstark2003/sam3_demo_gradio:latest \
   /bin/bash -c "\
     export PATH=\
+
+## ⚖️ Licensing & Acknowledgments
+
+This repository contains both original code and derivative works of Meta's Segment Anything Model 3 (SAM 3).
+
+1. **Source Code**: All Python scripts, conversion logic, and TensorRT wrappers provided in this repository are licensed under the [MIT License](LICENSE).
+2. **SAM 3 Materials**: The underlying model weights, architectures, and any exported ONNX/TensorRT engines derived from them are subject to the **[Meta SAM License](LICENSE-SAM)**. 
+
+### Research Acknowledgment
+Per the SAM License (Section 1.b.ii), this project acknowledges the use of **SAM Materials** distributed by Meta Platforms, Inc. for the development of this TensorRT inference pipeline.
