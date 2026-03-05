@@ -326,6 +326,7 @@ docker run --gpus all \
     export PATH=\
 ```
 
+
 ⚠️ Disclaimer
 This project provides high-performance optimizations for SAM3. Note that TensorRT engine performance and stability are highly dependent on specific hardware (GPU architecture) and software (CUDA/TensorRT versions). Use these optimization scripts at your own risk.
 
