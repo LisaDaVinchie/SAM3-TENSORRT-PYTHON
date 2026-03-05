@@ -1,6 +1,8 @@
 # SAM3-TENSORRT-PYTHON — SAM3 inference pipeline with TensorRT (FP16)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/Kishan200308/SAM3-TENSORRT-PYTHON?style=social)](https://github.com/Kishan200308/SAM3-TENSORRT-PYTHON/stargazers) [![Release](https://img.shields.io/github/v/release/Kishan200308/SAM3-TENSORRT-PYTHON)](https://github.com/Kishan200308/SAM3-TENSORRT-PYTHON/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+[![License: SAM](https://img.shields.io/badge/License-SAM-blue.svg)](LICENSE-SAM)
+[![GitHub stars](https://img.shields.io/github/stars/Kishan200308/SAM3-TENSORRT-PYTHON?style=social)](https://github.com/Kishan200308/SAM3-TENSORRT-PYTHON/stargazers)
 
 ## SAM3 TensorRT Pipeline
 
