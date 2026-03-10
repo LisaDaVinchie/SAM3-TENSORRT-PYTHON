@@ -1,3 +1,6 @@
 
+sam3/
+Onnx-Models
+*venv*
 .vscode
 __pycache__
