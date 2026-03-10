@@ -12,9 +12,6 @@ def interpolate_rope_2d(cos, sin, target_h, target_w):
     seq_len, dim = cos.shape
     src = int(seq_len ** 0.5)
 
-    if src * src != seq_len:
-        return cos, sin
-
     cos = cos.view(src, src, dim)
     sin = sin.view(src, src, dim)
 
